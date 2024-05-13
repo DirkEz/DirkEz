@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Welcome to my github! :computer:
+# Welcome to my Github! :computer:
 
 ### Hi there, I'm Dirk! :wave:
 I'm a passionate developer who loves to create amazing things with code. Welcome to my GitHub profile! Feel free to explore my projects and don't hesitate to reach out if you have any questions or just want to chat.
