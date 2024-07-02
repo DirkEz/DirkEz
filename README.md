@@ -9,9 +9,9 @@ I'm a passionate developer who loves to create amazing things with code. Welcome
 - 📧 Contact me: [dirk@dirkez.nl](mailto:remy@dirkez.nl)
 
 ### My Tech Stack 💻
-- Languages: Python, JavaScript, HTML/CSS
+- Languages: Python, JavaScript, HTML/CSS, PHP
 - Frameworks: React, Node.js, Laravel
-- Tools: Git, Docker, VS Code
+- Tools: Git, Docker, VS Code, VS
 
 ### Let's Connect! 🌐
 - LinkedIn: [www.linkedin.com/in/dirk-schaafstra](https://www.linkedin.com/in/dirk-schaafstra/)
