@@ -4,14 +4,13 @@
 I'm a passionate developer who loves to create amazing things with code. Welcome to my GitHub profile! Feel free to explore my projects and don't hesitate to reach out if you have any questions or just want to chat.
 
 ### About Me ℹ️
-- 🌍 Visit my website: [remy.dirkez.nl](https://remy.dirkez.nl/)
-- 💬 Join my Discord server: [remy.dirkez.nl/discord](https://remy.dirkez.nl/discord)
+- 🌍 Visit my website: [remy.dirkez.nl](https://remy-studios.nl/)
 - 📧 Contact me: [dirk@dirkez.nl](mailto:remy@dirkez.nl)
 
 ### My Tech Stack 💻
-- Languages: Python, JavaScript, HTML/CSS, PHP
-- Frameworks: React, Node.js, Laravel
-- Tools: Git, Docker, VS Code, VS
+- Languages: Typescript, JavaScript, HTML/CSS, PHP
+- Frameworks: VueJS, Node.js, Laravel
+- Tools: Git, Docker, VS Code, PHP Storm
 
 ### Let's Connect! 🌐
 - LinkedIn: [www.linkedin.com/in/dirk-schaafstra](https://www.linkedin.com/in/dirk-schaafstra/)
