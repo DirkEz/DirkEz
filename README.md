@@ -12,6 +12,8 @@ I'm a passionate developer who loves to create amazing things with code. Welcome
 - Frameworks: VueJS, Node.js, Laravel
 - Tools: Git, Docker, VS Code, PHP Storm
 
+![DirkEz GITHUB STATS](https://github-readme-stats.vercel.app/api?username=wpoortman&show_icons=true&theme=radical)
+
 ### Let's Connect! 🌐
 - LinkedIn: [www.linkedin.com/in/dirk-schaafstra](https://www.linkedin.com/in/dirk-schaafstra/)
 
